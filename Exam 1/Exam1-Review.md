@@ -99,7 +99,7 @@
 
 14. The following histogram represents data for a sample of size 100. What is the approximate median for this data?
 
-    ![histogram for quesiton 14](question-14.png)
+    ![histogram-for-quesiton-14](question-14.png)
 
     1. -1
     1. -0.75
@@ -109,7 +109,7 @@
 
 15. The following picture shows a boxplot for PM emissions of diesel vehicles driven at low altitude.
 
-    ![boxplot for quesiton 15 and 16](question-15-and-16.png)
+    ![boxplot-for-quesiton-15-and-16](question-15-and-16.png)
 
     The value of 3 PM is closest to the:
 
@@ -122,7 +122,7 @@
 
 16. The following picture shows a boxplot for PM emissions of diesel vehicles driven at low altitude.
 
-    ![boxplot for quesiton 15 and 16](question-15-and-16.png)
+    ![boxplot-for-quesiton-15-and-16](question-15-and-16.png)
 
     TRUE or FALSE: For this data, the sample mean will be larger than the sample median
 
