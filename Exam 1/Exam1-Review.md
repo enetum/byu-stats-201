@@ -1,9 +1,9 @@
 1.  Suppose that a researcher is interested in a product manufacturing process. The process is not perfect, and it is expected that there will be defects. She conducts a study and finds that in 100 items, there are 10 items to be defectives. Which one of the following describes the sample in this case?
 
-    A. The sample is all items manufactured in this process.
-    B. The sample is the group of 100 items the researcher has studied.
-    C. The sample is the 10 items that are defective.
-    D. The sample is the study that the researcher has conducted.
+    1. A. The sample is all items manufactured in this process.
+    1. B. The sample is the group of 100 items the researcher has studied.
+    1. C. The sample is the 10 items that are defective.
+    1. D. The sample is the study that the researcher has conducted.
 
 2.  Suppose that a researcher is interested in a product manufacturing process. The process is not perfect, and it is expected that there will be defects. She conducts a study and finds that in 100 items, there are 10 items to be defectives. Which one of the following most reasonably describes the population in this case?
 
