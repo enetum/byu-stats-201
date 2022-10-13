@@ -1,6 +1,6 @@
 # Stats 201 - Practice Midterm Exam 1
 
-## Chapters 01 - 04
+### Chapters 01 - 04
 
 1.  Suppose that a researcher is interested in a product manufacturing process. The process is not perfect, and it is expected that there will be defects. She conducts a study and finds that in 100 items, there are 10 items to be defectives. Which one of the following describes the sample in this case?
 
